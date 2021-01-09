@@ -2,9 +2,8 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://fb.com/wanjos.andrade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wanjos.andrade" height="20" width="35" /></a>
-<a href="https://instagram.com/wannjos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wannjos" height="20" width="35" /></a>
-<a href="https://dribbble.com/srwess" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="srwess" height="20" width="35" /></a>
+<a href="https://fb.com/wanjos.andrade" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="wanjos.andrade"/></a>
+<a href="https://instagram.com/wannjos" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wannjos"/></a>
 </p>
 
 I'm a Front-End Developer from Itanhaém - SP, Brazil
@@ -13,7 +12,7 @@ I'm a Front-End Developer from Itanhaém - SP, Brazil
 - :star2: Student of UI/UX Design, in search of better user content
 - :thinking: My interest is to become a FullStack Developer using Javascript
 - :email: Email me at wanjos.andrade@gmail.com
-- :briefcase: Sharing updates on <a href="https://www.linkedin.com/in/srwess/">LinkedIn</a>
+- :briefcase: Sharing updates on <a href="https://www.linkedin.com/in/srwess/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/></a>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
