@@ -12,7 +12,7 @@ I'm a Front-End Developer from Itanhaém - SP, Brazil
 - :star2: Student of UI/UX Design, in search of better user content
 - :thinking: My interest is to become a FullStack Developer using Javascript
 - :email: Email me at wanjos.andrade@gmail.com
-- :briefcase: Sharing updates on <a href="https://www.linkedin.com/in/srwess/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/></a>
+- :briefcase: Sharing updates on <a href="https://www.linkedin.com/in/srwess/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
