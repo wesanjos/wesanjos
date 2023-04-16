@@ -19,4 +19,4 @@ Sou Desenvolvedor Front-End e resido em Itanhaém - SP, Brasil
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srwess&show_icons=true&theme=default&locale=en&layout=compact" alt="srwess" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesanjos&show_icons=true&theme=default&locale=en&layout=compact" alt="srwess" /></p>
