@@ -6,7 +6,7 @@ Sou Desenvolvedor Front-End e resido em Itanhaém - SP, Brasil
 - :star2: Aprimoramento constante em Javascript e em UI/UX Design. 
 - :thinking: Meus interesses é atuar futuramente como Desenvolvedor Full-Stack.
 - :email: E-mail para contato: wanjos.andrade@gmail.com
-- :briefcase: Para saber mais, se conecte <a href="https://www.linkedin.com/in/srwess/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+- :briefcase: Para saber mais, se conecte <a href="https://www.linkedin.com/in/wesanjos/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 
 ### Linguagens e Ferramentas que possuo conhecimentos:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
