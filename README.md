@@ -1,6 +1,6 @@
 ## Opaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, meu nome é Wesley Anjos
 
-Sou Desenvolvedor Front-End e resido em Itanhaém - SP, Brasil
+Sou Desenvolvedor Front-End e resido em Curitiba - PR, Brasil
 
 - :man_technologist: Entusiasta em desenvolver projetos web.
 - :star2: Aprimoramento constante em Javascript e em UI/UX Design. 
